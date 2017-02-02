@@ -10,6 +10,7 @@ namespace Demo04
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
