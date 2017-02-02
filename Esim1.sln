@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim1", "Demo04\Esim1.csproj", "{9D49C82E-557D-4AE0-8F33-FA18392F90AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApp", "PersonApp\PersonApp.csproj", "{15EC89F4-31D5-4878-85BB-6B2FFC41D7CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D49C82E-557D-4AE0-8F33-FA18392F90AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D49C82E-557D-4AE0-8F33-FA18392F90AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D49C82E-557D-4AE0-8F33-FA18392F90AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D49C82E-557D-4AE0-8F33-FA18392F90AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15EC89F4-31D5-4878-85BB-6B2FFC41D7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EC89F4-31D5-4878-85BB-6B2FFC41D7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EC89F4-31D5-4878-85BB-6B2FFC41D7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EC89F4-31D5-4878-85BB-6B2FFC41D7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
