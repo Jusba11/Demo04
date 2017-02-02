@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo04", "Demo04\Demo04.csproj", "{9D49C82E-557D-4AE0-8F33-FA18392F90AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim1", "Demo04\Esim1.csproj", "{9D49C82E-557D-4AE0-8F33-FA18392F90AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
