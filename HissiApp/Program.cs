@@ -14,6 +14,7 @@ namespace HissiApp
 
             do
             {
+                hissi.Kerros = 1;
                 Console.Write("Anna kerros jonne haluat mennä. Valitse 1-5 >");
                 string syote = Console.ReadLine();
                 hissi.Kerros = int.Parse(syote);
